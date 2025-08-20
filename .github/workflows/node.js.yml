@@ -38,5 +38,4 @@ jobs:
           JWT_SECRET: ${{ secrets.JWT_SECRET }}
           RECEIPE_URL: ${{ secrets.RECEIPE_URL }}
           PORT: ${{ secrets.PORT }}
-    - run: pm2 restart api
     
