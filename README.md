@@ -28,9 +28,9 @@ Steps
 
    npm install
 
- or
-
- yarn install
+    or
+   
+   yarn install
 
 ## Usage
 
